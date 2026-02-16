@@ -4,6 +4,7 @@
 
 <h1 align="center">100 Days of ML for Geotechnical Engineering</h1>
 
+
 <p align="center">
   <em>From Python Basics to AI-Powered Geotechnical Solutions</em>
 </p>
@@ -18,7 +19,8 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT"></a>
 </p>
 
-> **From Python Basics to AI-Powered Geotechnical Solutions**
+![Banner](assets/banner.png)
+
 
 | | |
 |---|---|
