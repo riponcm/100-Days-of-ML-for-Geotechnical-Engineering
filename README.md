@@ -95,7 +95,7 @@ The journey starts from **Python fundamentals** and progresses to **Physics-Info
 
 | Day | Topic | Notebook | Status |
 |-----|-------|----------|--------|
-| 001 | Variables, Data Types & Type Casting | [Notebook](Phase-1_Python-Fundamentals/Day_001/day_001.ipynb) | ![Working](https://img.shields.io/badge/Upcoming-9E9E9E?style=flat-square) |
+| 001 | Variables, Data Types & Type Casting | [Notebook](Phase-1_Python-Fundamentals/Day_001/day_001.ipynb) | [Working](https://img.shields.io/badge/Working-2979FF?style=flat-square) |
 | 002 | Conditionals — if / elif / else | [Notebook](Phase-1_Python-Fundamentals/Day_002/day_002.ipynb) | ![Upcoming](https://img.shields.io/badge/Upcoming-9E9E9E?style=flat-square) |
 | 003 | Loops — for, while, enumerate, zip | [Notebook](Phase-1_Python-Fundamentals/Day_003/day_003.ipynb) | ![Upcoming](https://img.shields.io/badge/Upcoming-9E9E9E?style=flat-square) |
 | 004 | Strings & String Methods | [Notebook](Phase-1_Python-Fundamentals/Day_004/day_004.ipynb) | ![Upcoming](https://img.shields.io/badge/Upcoming-9E9E9E?style=flat-square) |
