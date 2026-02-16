@@ -256,11 +256,16 @@ jupyter notebook Phase-1_Python-Fundamentals/Day_001/day_001.ipynb
 
 ---
 
+
 ## Connect With Me
 
-| Platform | Link |
-|----------|------|
-| **GitHub** | [https://github.com/riponcm] |
+[![GitHub](https://img.shields.io/badge/GitHub-riponcm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riponcm)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-riponcm-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/riponce)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ripon_Chandra_Malo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eng.ripon)
+
+[![Email](https://img.shields.io/badge/riponce.buet@egmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riponce.buet@gmail.com)
 
 ---
 
