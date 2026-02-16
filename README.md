@@ -260,7 +260,7 @@ jupyter notebook Phase-1_Python-Fundamentals/Day_001/day_001.ipynb
 
 | Platform | Link |
 |----------|------|
-| **GitHub** | [Your GitHub URL] |
+| **GitHub** | [https://github.com/riponcm] |
 
 ---
 
@@ -269,8 +269,13 @@ jupyter notebook Phase-1_Python-Fundamentals/Day_001/day_001.ipynb
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
-<div align="center">
-> **If you find this useful, please give it a star.**
->
-> *"The best time to plant a tree was 30 years ago. The second best time is now."*
-</div> 
+---
+
+> [!NOTE]
+> **If you find this repository useful, consider giving it a star.**
+
+---
+
+> *"The best time to plant a tree was 20 years ago. The second best time is now."*
+> 
+> — Chinese Proverb
