@@ -35,7 +35,7 @@
 
 A structured 100-day journey bridging the gap between classical geotechnical engineering and modern machine learning / deep learning — one commit, one notebook, one day at a time.
 
-Every day includes a Python script (`.py`), a Jupyter Notebook (`.ipynb`), concise notes (`notes.md`), a matching Kaggle notebook upload, and a GitHub commit to maintain the contribution streak.
+Every day includes a Python script (`.py`), a Jupyter Notebook (`.ipynb`), concise notes (`notes.md`),.
 
 The journey starts from **Python fundamentals** and progresses to **Physics-Informed Neural Networks (PINNs)**, **LSTMs for seismic data**, and **end-to-end geotechnical ML pipelines**.
 
@@ -98,7 +98,7 @@ The journey starts from **Python fundamentals** and progresses to **Physics-Info
 | 001 | Variables, Data Types & Type Casting | [Notebook](Phase-1_Python-Fundamentals/Day_001/day_001.ipynb) | ![Done](https://img.shields.io/badge/Done-00C853?style=flat-square) |
 | 002 | Conditionals — if / elif / else | [Notebook](Phase-1_Python-Fundamentals/Day_002/day_002.ipynb) | ![Done](https://img.shields.io/badge/Done-00C853?style=flat-square) |
 | 003 | Loops — for, while, enumerate, zip | [Notebook](Phase-1_Python-Fundamentals/Day_003/day_003.ipynb) | ![Done](https://img.shields.io/badge/Done-00C853?style=flat-square) |
-| 004 | Strings & String Methods | [Notebook](Phase-1_Python-Fundamentals/Day_004/day_004.ipynb) | ![Done](https://img.shields.io/badge/Done-00C853?style=flat-square) |
+| 004 | Strings & String Methods | [Notebook](Phase-1_Python-Fundamentals/Day_004/day_004.ipynb) | ![Working](https://img.shields.io/badge/Working-2979FF?style=flat-square) |
 | 005 | Lists, Tuples & Sets | [Notebook](Phase-1_Python-Fundamentals/Day_005/day_005.ipynb) | ![Upcoming](https://img.shields.io/badge/Upcoming-9E9E9E?style=flat-square) |
 | 006 | Dictionaries & Comprehensions | [Notebook](Phase-1_Python-Fundamentals/Day_006/day_006.ipynb) | ![Upcoming](https://img.shields.io/badge/Upcoming-9E9E9E?style=flat-square) |
 | 007 | Functions & Lambda Expressions | [Notebook](Phase-1_Python-Fundamentals/Day_007/day_007.ipynb) | ![Upcoming](https://img.shields.io/badge/Upcoming-9E9E9E?style=flat-square) |
