@@ -102,9 +102,9 @@ The journey starts from **Python fundamentals** and progresses to **Physics-Info
 | 005 | Lists, Tuples & Sets | [Notebook](Phase-1_Python-Fundamentals/Day_005/day_005.ipynb) | ![Done](https://img.shields.io/badge/Done-00C853?style=flat-square) |
 | 006 | Dictionaries & Comprehensions | [Notebook](Phase-1_Python-Fundamentals/Day_006/day_006.ipynb) | ![Done](https://img.shields.io/badge/Done-00C853?style=flat-square) |
 | 007 | Functions & Lambda Expressions | [Notebook](Phase-1_Python-Fundamentals/Day_007/day_007.ipynb) | ![Done](https://img.shields.io/badge/Done-00C853?style=flat-square) |
-| 008 | File I/O — Read & Write CSV, TXT | [Notebook](Phase-1_Python-Fundamentals/Day_008/day_008.ipynb) | ![Working](https://img.shields.io/badge/Working-2979FF?style=flat-square) |
-| 009 | Error Handling — try / except / finally | [Notebook](Phase-1_Python-Fundamentals/Day_009/day_009.ipynb) | ![Upcoming](https://img.shields.io/badge/Upcoming-9E9E9E?style=flat-square) |
-| 010 | OOP — Classes & Objects | [Notebook](Phase-1_Python-Fundamentals/Day_010/day_010.ipynb) | ![Upcoming](https://img.shields.io/badge/Upcoming-9E9E9E?style=flat-square) |
+| 008 | File I/O — Read & Write CSV, TXT | [Notebook](Phase-1_Python-Fundamentals/Day_008/day_008.ipynb) | ![Done](https://img.shields.io/badge/Done-00C853?style=flat-square) |
+| 009 | Error Handling — try / except / finally | [Notebook](Phase-1_Python-Fundamentals/Day_009/day_009.ipynb) | ![Done](https://img.shields.io/badge/Done-00C853?style=flat-square) |
+| 010 | OOP — Classes & Objects | [Notebook](Phase-1_Python-Fundamentals/Day_010/day_010.ipynb) | ![Working](https://img.shields.io/badge/Working-2979FF?style=flat-square) |
 | 011 | OOP — Inheritance & Polymorphism | [Notebook](Phase-1_Python-Fundamentals/Day_011/day_011.ipynb) | ![Upcoming](https://img.shields.io/badge/Upcoming-9E9E9E?style=flat-square) |
 | 012 | Modules & Packages | [Notebook](Phase-1_Python-Fundamentals/Day_012/day_012.ipynb) | ![Upcoming](https://img.shields.io/badge/Upcoming-9E9E9E?style=flat-square) |
 | 013 | Decorators & Generators | [Notebook](Phase-1_Python-Fundamentals/Day_013/day_013.ipynb) | ![Upcoming](https://img.shields.io/badge/Upcoming-9E9E9E?style=flat-square) |
