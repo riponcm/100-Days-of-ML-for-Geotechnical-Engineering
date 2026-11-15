@@ -24,9 +24,9 @@ Master the core data science stack — NumPy, Pandas, Matplotlib, Seaborn, Plotl
 ## Folder Structure
 
 Each day folder contains:
-- `day_XXX.py` — Python script
 - `day_XXX.ipynb` — Jupyter Notebook (also uploaded to Kaggle)
 - `notes.md` — Key concepts and takeaways
+- CSV data files where applicable
 
 ---
 

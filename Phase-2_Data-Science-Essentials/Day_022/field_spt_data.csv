@@ -1,0 +1,21 @@
+borehole_id,depth_m,N_value,soil_description
+BH-01,1.5,5,Loose brown fill with gravel fragments
+BH-01,3.0,8,Grey-brown silty sand moist
+BH-01,4.5,14,Medium dense tan sand
+BH-01,6.0,18,Grey moist clayey sand
+BH-01,7.5,28,Dense brown sand
+BH-01,9.0,35,Very dense grey gravel with sand
+BH-02,1.5,3,Very loose dark brown fill organic
+BH-02,3.0,6,Soft grey clay
+BH-02,4.5,10,Loose grey-brown silty sand
+BH-02,6.0,15,Medium stiff grey clay
+BH-02,7.5,22,Medium dense tan sand
+BH-02,9.0,30,Dense grey gravel
+BH-03,1.5,7,Loose brown fill
+BH-03,3.0,12,Medium dense sand
+BH-03,4.5,16,Medium dense sand with gravel
+BH-03,6.0,20,Grey moist clayey sand
+BH-03,7.5,32,Dense brown sand
+BH-03,9.0,40,Very dense gravel with cobbles
+BH-04,1.5,4,Loose dark brown fill with roots
+BH-04,3.0,9,Soft grey-brown silty clay

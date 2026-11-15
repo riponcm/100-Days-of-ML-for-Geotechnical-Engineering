@@ -24,7 +24,6 @@ Dive into neural networks with PyTorch — from basic NNs to CNNs, RNNs, LSTMs, 
 ## Folder Structure
 
 Each day folder contains:
-- `day_XXX.py` — Python script
 - `day_XXX.ipynb` — Jupyter Notebook (also uploaded to Kaggle)
 - `notes.md` — Key concepts and takeaways
 

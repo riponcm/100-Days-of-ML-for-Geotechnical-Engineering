@@ -24,9 +24,9 @@ Learn and apply classical ML algorithms using Scikit-Learn and XGBoost, with dir
 ## Folder Structure
 
 Each day folder contains:
-- `day_XXX.py` — Python script
 - `day_XXX.ipynb` — Jupyter Notebook (also uploaded to Kaggle)
 - `notes.md` — Key concepts and takeaways
+- CSV data files where applicable
 
 ---
 

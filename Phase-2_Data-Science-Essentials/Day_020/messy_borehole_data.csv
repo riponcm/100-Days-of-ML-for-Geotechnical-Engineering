@@ -1,0 +1,31 @@
+borehole_id,depth_m,N_value,soil_type,water_content,unit_weight,fines_content,remarks
+BH-01,1.5,5,Fill,12.3,16.2,35.0,Topsoil with roots
+BH-01,3.0,8,Silty Sand,18.5,17.8,28.0,Grey-brown
+BH-01,4.5,,Sand,14.2,18.5,8.0,Medium dense
+BH-01,6.0,18,Clayey Sand,22.1,,45.0,Grey moist
+BH-01,7.5,28,Sand,15.0,19.2,6.0,Dense brown
+BH-01,9.0,35,Gravel,,20.5,3.0,Very dense
+BH-01,10.5,50,Weathered Rock,8.2,22.0,2.0,Hard grey
+BH-01,12.0,999,Bedrock,5.1,25.0,1.0,Refusal
+BH-02,1.5,3,Fill,14.8,15.8,,Dark brown organic
+BH-02,3.0,6,Clay,32.5,16.5,92.0,Soft grey
+BH-02,4.5,10,Silty Sand,20.1,17.5,30.0,Medium loose
+BH-02,6.0,15,Sand,16.3,18.2,7.0,
+BH-02,7.5,22,,18.2,19.0,5.0,Dense tan
+BH-02,9.0,-5,Gravel,10.5,20.8,4.0,Very dense
+BH-02,10.5,45,Weathered Rock,,22.5,2.0,Hard
+BH-02,12.0,55,Bedrock,4.8,25.0,1.0,Refusal
+BH-01,3.0,8,Silty Sand,18.5,17.8,28.0,Grey-brown
+BH-03,1.5,7,Fill,11.5,16.5,32.0,Brown topsoil
+BH-03,3.0,12,Sand,,18.8,5.0,Medium dense
+BH-03,4.5,15,Sand,13.8,19.0,6.0,Dense
+BH-03,6.0,,Clayey Sand,25.3,17.5,48.0,Moist grey
+BH-03,,25,Sand,14.5,19.5,4.0,Dense
+BH-03,9.0,40,Gravel,9.2,21.0,3.0,Very dense
+BH-03,10.5,55,Weathered Rock,7.5,22.8,,Hard grey
+BH-03,12.0,65,Bedrock,4.2,25.5,1.0,Refusal
+BH-04,1.5,4,Fill,13.2,15.5,38.0,Loose fill
+BH-04,3.0,,Clay,35.2,16.0,95.0,Very soft grey
+BH-04,4.5,8,Silty Sand,21.8,17.2,32.0,
+BH-04,6.0,14,Sand,17.0,18.0,8.0,Medium dense
+BH-04,7.5,20,Sand,15.5,,5.0,Dense
