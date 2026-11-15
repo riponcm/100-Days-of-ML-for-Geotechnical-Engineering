@@ -22,13 +22,10 @@ env/
 Thumbs.db
 
 # Data files (large)
-*.csv
-*.xlsx
 *.h5
 *.hdf5
 *.pkl
 *.joblib
-!assets/*
 
 # Model files
 *.pth
